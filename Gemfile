@@ -45,7 +45,7 @@ group :development do
 #gem 'spring-watcher-listen', '~> 2.0.0'
 
 group :production do
-gem 'pg'
+  gem "pg"
 end
 end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
